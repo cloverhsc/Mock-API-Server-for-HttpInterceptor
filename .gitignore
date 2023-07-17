@@ -149,3 +149,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/test-results/
+/playwright-report/
+/playwright/.cache/
+package-lock.json
